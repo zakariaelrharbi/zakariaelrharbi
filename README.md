@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **MERN Stack Developer**<br>-
-- 💬 Ask me about **MERN**<br>-
-- 📫 How to reach me **zakariaelrharbi62@gmail.com**<br>-
+- 🌱 I’m currently learning **MERN Stack Developer**<br>
+- 💬 Ask me about **MERN**<br>
+- 📫 How to reach me **zakariaelrharbi62@gmail.com**<br>
 - ⚡ Fun fact **I Think I am Funny**<br>
 
 <a href="/gif/software-developer-programming-code-looping-4k-background-2QKyUm" title="Software developer programming code, looping 4K background"><img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" alt="Software developer programming code, looping 4K background"></a><div style="font-size:11px;"></div>
