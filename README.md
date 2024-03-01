@@ -4,8 +4,7 @@
 - 📫 How to reach me **zakariaelrharbi62@gmail.com**<br>-
 - ⚡ Fun fact **I Think I am Funny**<br>
 
-<img align="right" alt="Coding" width="400"src"https://makeagif.com/i/2QKyUm">
-
+<a href="/gif/software-developer-programming-code-looping-4k-background-2QKyUm" title="Software developer programming code, looping 4K background"><img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" alt="Software developer programming code, looping 4K background"></a><div style="font-size:11px;">make <a href="/" title="make a gif">science GIFs</a> like this at MakeaGif</div>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kilozerko) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakaria_elrha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-elrharbi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Kilozerko) 
 
