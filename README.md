@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Zakaria Elrharbi</h1>
 <h3 align="center">I'm a Full Stack Mern Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaelrharbi&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaelrharbi" /> </p>
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<a href="/gif/software-developer-programming-code-looping-4k-background-2QKyUm" title="Software developer programming code, looping 4K background"><img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" alt="Software developer programming code, looping 4K background"></a><div style="font-size:11px;"></div>
+<a href="/gif/software-developer-programming-code-looping-4k-background-2QKyUm" title=" Software developer programming code, looping 4K background"><img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" alt="Software developer programming code, looping 4K background"></a><div style="font-size:11px;"></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariaelrharbi&theme=" alt="zakariaelrharbi" /></a> </p>
 
@@ -56,5 +54,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zakariaelrharbi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakariaelrharbi&theme=2077" height="180em" />
 </div>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
