@@ -3,10 +3,6 @@
 <h3 align="center">I'm a Full Stack Mern Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaelrharbi&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaelrharbi" /> </p>
 
-<a href="/gif/software-developer-programming-code-looping-4k-background-2QKyUm" title=" Software developer programming code, looping 4K background"><img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" alt="Software developer programming code, looping 4K background"></a><div style="font-size:11px;"></div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakariaelrharbi&theme=" alt="zakariaelrharbi" /></a> </p>
-
 - 🔭 I’m currently working on [ArkX_Bootcamp_Mern-Js](https://github.com/zakariaelrharbi/ArkX_Bootcamp_Mern-Js)
 - 🌱 I’m currently learning **MERN Stack Developer**
 - 💬 Ask me about **NodeJs-Express-MongoDb-React**
