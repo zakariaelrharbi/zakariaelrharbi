@@ -10,7 +10,6 @@
 - ⚡ Fun fact **I Think I am Funny**
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaelrharbi&show_icons=true&locale=en" alt="zakariaelrharbi" &theme=dracula /></p>
   <img src="https://streak-stats.demolab.com?user=zakariaelrharbi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
